@@ -5,5 +5,7 @@ public class P01 {
         int a=120, b=80, c;
         c=a+b;
         System.out.println("c="+(a+b));
+        System.out.println("Java Candır. Gerisi Heyecandır");
+
     }
 }
